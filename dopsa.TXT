@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ya ochen ne hochu na dopsu znaete!!!
+=======
+Ya ochen ne hochu na dopsu!!!!
+>>>>>>> 7f768665e4a542526527a035c6d0896218eb0821
